@@ -1,0 +1,1 @@
+Minerva is a web point of sale and business management application, designed under a MVC frameworke with PHP and dojo.
